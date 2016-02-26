@@ -1,4 +1,4 @@
-See file:///F:/BaiduYunDownload/GitHub/android-ndk/hello-jni/app/build/tmp/compileMipsDebugAllHello-jniSharedLibraryHello-jniMainC/output.txt for all output for compileMipsDebugAllHello-jniSharedLibraryHello-jniMainC.
+See file:///F:/BaiduYunDownload/GitHub/hello-jni/app/build/tmp/compileMipsDebugAllHello-jniSharedLibraryHello-jniMainC/output.txt for all output for compileMipsDebugAllHello-jniSharedLibraryHello-jniMainC.
 compiling hello-jni.c successful.
 
-Finished compileMipsDebugAllHello-jniSharedLibraryHello-jniMainC, see full log file:///F:/BaiduYunDownload/GitHub/android-ndk/hello-jni/app/build/tmp/compileMipsDebugAllHello-jniSharedLibraryHello-jniMainC/output.txt.
+Finished compileMipsDebugAllHello-jniSharedLibraryHello-jniMainC, see full log file:///F:/BaiduYunDownload/GitHub/hello-jni/app/build/tmp/compileMipsDebugAllHello-jniSharedLibraryHello-jniMainC/output.txt.

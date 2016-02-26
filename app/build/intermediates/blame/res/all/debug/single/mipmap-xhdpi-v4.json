@@ -1,9 +1,5 @@
 [
     {
-        "merged": "F:\\BaiduYunDownload\\GitHub\\android-ndk\\hello-jni\\app\\build\\intermediates\\res\\merged\\all\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
-        "source": "F:\\BaiduYunDownload\\GitHub\\android-ndk\\hello-jni\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
-    },
-    {
         "merged": "F:\\BaiduYunDownload\\GitHub\\hello-jni\\app\\build\\intermediates\\res\\merged\\all\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
         "source": "F:\\BaiduYunDownload\\GitHub\\hello-jni\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     }

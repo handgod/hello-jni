@@ -1,8 +1,8 @@
 -shared
 -Wl,-soname,libhello-jni.so
 -o
-F:\\BaiduYunDownload\\GitHub\\android-ndk\\hello-jni\\app\\build\\intermediates\\binaries\\debug\\all\\obj\\armeabi\\libhello-jni.so
-F:\\BaiduYunDownload\\GitHub\\android-ndk\\hello-jni\\app\\build\\intermediates\\objectFiles\\armeabiDebugAllHello-jniSharedLibrary\\hello-jniMainC\\5nbzrm6w2281y89ch5ymathlx\\hello-jni.o
+F:\\BaiduYunDownload\\GitHub\\hello-jni\\app\\build\\intermediates\\binaries\\debug\\all\\obj\\armeabi\\libhello-jni.so
+F:\\BaiduYunDownload\\GitHub\\hello-jni\\app\\build\\intermediates\\objectFiles\\armeabiDebugAllHello-jniSharedLibrary\\hello-jniMainC\\9r6c3qpwdn9e9qimu07kao6cx\\hello-jni.o
 -Wl,--no-undefined
 -Wl,-z,noexecstack
 -Wl,-z,relro
